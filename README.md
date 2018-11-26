@@ -4,6 +4,13 @@ The player's goal is to leave from one of the exits that are generated at the ea
 The AI uses expecti-minimax algorithm to speculate the player's move with the intent to make the best move that will lead towards the player's capture. 
 There are several items scattered in the maze's grid which can be used both by the player and the AI agent.
 Those items are listed below: 
+-book : opponent loses hold item
+-sport shoes : +1 moving speed for 5 game rounds
+-running shoes : +2 moving speed for 3 game rounds
+-hoodie: become invisible to opponent for 2 game rounds
+-sandwich: chance to evade capture by AI
+-net: immobilize opponent for 1 round
+
 -
 Made in Java jdk 7
 
