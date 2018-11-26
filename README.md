@@ -17,12 +17,16 @@ Those items are listed below:
 
 -net: immobilize opponent for 1 round
 
-Made in Java jdk 7
 
 HOW TO RUN:
+
 There are 2 choices : 
+
 1. compile the java files using command line <javac /*.java> and then build the .jar by following the instructions found here: https://docs.oracle.com/javase/tutorial/deployment/jar/build.html
+
 2. Download the Maze.jar file and execute
 
+
+(Made in Java jdk 7)
 
  
